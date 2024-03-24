@@ -47,6 +47,7 @@ const Chart = computed(() => {
 </script>
 
 <template>
+    <!--
     <v-card elevation="10" class="position-relative bg-primary">
         <v-card-text  class="pb-sm-7">
             <h2 class="text-h4">Customers</h2>
@@ -58,5 +59,5 @@ const Chart = computed(() => {
                 <span class="text-subtitle-1 ml-2 d-flex align-center font-weight-medium "><ArrowUpLeftIcon  size="18"/>+9 this week</span>
             </h2>
         </v-card-text>
-    </v-card>
+    </v-card>-->
 </template>

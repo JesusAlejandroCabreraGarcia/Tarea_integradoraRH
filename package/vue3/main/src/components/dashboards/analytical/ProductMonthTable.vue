@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import { projectTableData } from "@/_mockApis/components/dashboards/AnalyticalData";
-const select = ref("March");
+const select = ref("Marzo");
 const items = ref(["March", "April", "May", "June"]);
 </script>
 <template>
@@ -9,7 +9,7 @@ const items = ref(["March", "April", "May", "June"]);
         <v-card-text>
             <div class="d-sm-flex align-center">
                 <div>
-                    <h2 class="text-h4">Product Performance</h2>
+                    <h2 class="text-h4">Compensacion a empleados</h2>
                 </div>
                 <v-spacer></v-spacer>
                 <div class="ml-auto">
@@ -20,10 +20,10 @@ const items = ref(["March", "April", "May", "June"]);
                 <template v-slot:default>
                     <thead>
                         <tr>
-                            <th class="text-subtitle-1 font-weight-medium">Assigned</th>
-                            <th class="text-subtitle-1 font-weight-medium">Name</th>
-                            <th class="text-subtitle-1 font-weight-medium">Priority</th>
-                            <th class="text-subtitle-1 font-weight-medium">Budget</th>
+                            <th class="text-subtitle-1 font-weight-medium">Asignado</th>
+                            <th class="text-subtitle-1 font-weight-medium">Nombre</th>
+                            <th class="text-subtitle-1 font-weight-medium">Puesto</th>
+                            <th class="text-subtitle-1 font-weight-medium">Compensacion</th>
                         </tr>
                     </thead>
                     <tbody>

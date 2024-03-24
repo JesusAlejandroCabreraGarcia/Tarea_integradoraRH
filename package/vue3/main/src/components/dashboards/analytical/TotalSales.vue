@@ -46,7 +46,7 @@ const chartOptions = computed(() => {
   }
 });
 
-const select = ref("March");
+const select = ref("Marzo");
 const items = ref(["March", "April", "May", "June"]);
 </script>
 
@@ -57,7 +57,7 @@ const items = ref(["March", "April", "May", "June"]);
   <v-card elevation="10" >
     <v-card-text>
       <div class="d-flex align-center mb-5">
-        <h2 class="text-h4">Total Sales</h2>
+        <h2 class="text-h4">Total</h2>
         <div class="ml-auto">
           <v-select
             v-model="select"
@@ -74,7 +74,7 @@ const items = ref(["March", "April", "May", "June"]);
           Sales Yearly
         </h6>
         <div class="ml-auto">
-          <h3 class="text-h4 font-weight-semibold">8,364,398</h3>
+          <h3 class="text-h4 font-weight-semibold">Compensacion Total</h3>
         </div>
       </div>
       <div class="mt-5 pt-5 position-relative">

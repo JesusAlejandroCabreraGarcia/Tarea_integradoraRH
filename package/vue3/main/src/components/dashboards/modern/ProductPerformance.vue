@@ -5,7 +5,7 @@ const select = ref("March");
 const items = ref(["March", "April", "May", "June"]);
 
 </script>
-
+<!--
 <template>
   <v-card elevation="10" flat class="w-100">
     <v-card-text>
@@ -82,3 +82,4 @@ const items = ref(["March", "April", "May", "June"]);
     </v-card-text>
   </v-card>
 </template>
+--> 

@@ -1,3 +1,4 @@
+<!-- En este apartado es para modificar el modulo de compensacion y beneficios-->
 <script setup lang="ts">
 import { ref, onMounted, computed } from "vue";
 import { getPrimary, getSecondary } from '@/utils/UpdateColors';
@@ -69,7 +70,7 @@ const chartOptions = computed(() => {
   <!-- ------------------------------------ -->
   <!-- html -->
   <!-- ------------------------------------ -->
-  <v-card elevation="10" class="pb-0">
+  <!-- <v-card elevation="10" class="pb-0">
     <v-card-text >
       <div class="d-sm-flex align-center">
         <div>
@@ -102,5 +103,5 @@ const chartOptions = computed(() => {
         </apexchart>
       </div>
     </v-card-text>
-  </v-card>
+  </v-card>-->
 </template>
