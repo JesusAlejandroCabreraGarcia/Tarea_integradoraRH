@@ -91,6 +91,11 @@ const sidebarItem: menu[] = [
     icon: ApertureIcon,
     to: "/dashboards/modern",
   },
+  {
+    title: "Gestion de Rendimiento",
+    icon: ChartPieIcon,
+    to: "/dashboards/analytical",
+  },
   { header: 'Apps' },
   {
     title: 'Contact',
