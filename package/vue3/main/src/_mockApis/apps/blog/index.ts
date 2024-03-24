@@ -209,9 +209,11 @@ const BlogPost: blogpostType[] = [
         },
         comments: BlogComment
     },
+
+    //En este apartado es para modificar el modulo de reclutamiento
     {
         id: chance.integer({ min: 1, max: 2000 }),
-        title: 'Early Black Friday Amazon deals: cheap TVs, headphones',
+        title: 'Se busca Nurtiologo/a',
         content: chance.paragraph({ sentences: 2 }),
         coverImg: s9,
         createdAt: sub(new Date(), { days: 5, hours: 3, minutes: 20 }),
@@ -228,7 +230,7 @@ const BlogPost: blogpostType[] = [
     },
     {
         id: chance.integer({ min: 1, max: 2000 }),
-        title: 'Presented by Max Rushden with Barry Glendenning, Philippe',
+        title: 'Unete a nosotros    ',
         content: chance.paragraph({ sentences: 2 }),
         coverImg: s10,
         createdAt: sub(new Date(), { days: 0, hours: 1, minutes: 20 }),

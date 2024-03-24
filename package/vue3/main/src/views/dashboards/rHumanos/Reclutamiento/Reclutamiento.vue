@@ -6,10 +6,10 @@ import UiParentCard from '@/components/shared/UiParentCard.vue';
 import BlogPosts from '@/components/apps/blog/blogPosts.vue';
 
 // theme breadcrumb
-const page = ref({ title: 'Blog app' });
+const page = ref({ title: 'Reclutamiento' });
 const breadcrumbs = ref([
     {
-        text: 'Get the latest news',
+        text: 'Unete a nuestra gran familia BULLS GYM',
         disabled: true,
         href: '#'
     }
