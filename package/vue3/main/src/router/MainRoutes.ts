@@ -11,13 +11,18 @@ const MainRoutes = {
             redirect: "/dashboards/analytical",
         },
         {
+            name: 'Compensacion',
+            path: '/dashboards/rHumanos/Compensacion',
+            component: () => import('@/views/dashboards/rHumanos/Compensacion/Compensacion.vue'),
+        },
+        {
             name: 'Reclutamiento',
             path: '/dashboards/rHumanos/Reclutamiento',
             component: () => import('@/views/dashboards/rHumanos/Reclutamiento/Reclutamiento.vue')
         },
         {
             name: 'Gestion',
-            path: '/dashboards/Gestion',
+            path: '/dashboards/rHumanos/Gestion',
             component: () => import('@/views/dashboards/rHumanos/Gestion/Gestion.vue'),
         },
         {
@@ -34,11 +39,6 @@ const MainRoutes = {
             name: 'Modern',
             path: '/dashboards/modern',
             component: () => import('@/views/dashboards/modern/Modern.vue'),
-        },
-        {
-            name: 'Compensacion',
-            path: '/dashboards/Compensacion',
-            component: () => import('@/views/dashboards/rHumanos/Compensacion/Compensacion.vue'),
         },
         {
             name: 'Chats',
