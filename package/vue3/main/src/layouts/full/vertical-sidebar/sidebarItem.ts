@@ -94,7 +94,7 @@ const sidebarItem: menu[] = [
   {
     title: "Compensacion y Beneficios",
     icon: ApertureIcon,
-    to: "/dashboards/Compensacion",
+    to: "/dashboards/rHumanos/Compensacion",
   },
   { header: 'Apps' },
   {
