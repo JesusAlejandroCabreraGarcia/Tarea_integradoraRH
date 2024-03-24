@@ -8,14 +8,14 @@ const MainRoutes = {
     children: [
         {
             path: '/',
-            redirect: "/dashboards/ahttps://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/pull/5/conflict?name=package%252Fvue3%252Fmain%252Fsrc%252Frouter%252FMainRoutes.ts&ancestor_oid=fbb3cc358db5d7dced7112a3b04f67b6cde1ed46&base_oid=ba7eb897749b7eb307a491d4a1e673957be64189&head_oid=96c668a06efd88c11fc5db548b1b458fa3c0097enalytical",
+            redirect: "/dashboards/rHumanos/Reclutamiento",
         },
         {
             name: 'Compensacion',
             path: '/dashboards/rHumanos/Compensacion',
             component: () => import('@/views/dashboards/rHumanos/Compensacion/Compensacion.vue'),
         },
-        {https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/pull/5/conflict?name=package%252Fvue3%252Fmain%252Fsrc%252Frouter%252FMainRoutes.ts&ancestor_oid=fbb3cc358db5d7dced7112a3b04f67b6cde1ed46&base_oid=ba7eb897749b7eb307a491d4a1e673957be64189&head_oid=96c668a06efd88c11fc5db548b1b458fa3c0097e
+        {
             name: 'Reclutamiento',
             path: '/dashboards/rHumanos/Reclutamiento',
             component: () => import('@/views/dashboards/rHumanos/Reclutamiento/Reclutamiento.vue')
