@@ -91,6 +91,11 @@ const sidebarItem: menu[] = [
     icon: ApertureIcon,
     to: "/dashboards/modern",
   },
+  {
+    title: 'Reclutamiento y Seleccion',
+    icon: CircleDotIcon,
+    to: '/dashboards/rHumanos/Reclutamiento'
+  },
   { header: 'Apps' },
   {
     title: 'Contact',
