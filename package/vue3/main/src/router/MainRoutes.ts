@@ -11,6 +11,11 @@ const MainRoutes = {
             redirect: "/dashboards/analytical",
         },
         {
+            name: 'Gestion',
+            path: '/dashboards/Gestion',
+            component: () => import('@/views/dashboards/rHumanos/Gestion/Gestion.vue'),
+        },
+        {
             name: 'Analytical',
             path: '/dashboards/analytical',
             component: () => import('@/views/dashboards/analytical/Analytical.vue'),
