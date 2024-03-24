@@ -92,6 +92,11 @@ const sidebarItem: menu[] = [
     to: "/dashboards/modern",
   },
   {
+    title: 'Reclutamiento y Seleccion',
+    icon: CircleDotIcon,
+    to: '/dashboards/rHumanos/Reclutamiento'
+  },
+  {
     title: "Gestion de Rendimiento",
     icon: ChartPieIcon,
     to: "/dashboards/analytical",
