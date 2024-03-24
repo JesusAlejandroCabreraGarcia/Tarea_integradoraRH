@@ -27,7 +27,7 @@ const MainRoutes = {
         },
         {
             name: 'Compensacion',
-            path: '/dashboards/Compensacion',
+            path: '/dashboards/rHumanos/Compensacion',
             component: () => import('@/views/dashboards/rHumanos/Compensacion/Compensacion.vue'),
         },
         {
