@@ -91,6 +91,11 @@ const sidebarItem: menu[] = [
     icon: ApertureIcon,
     to: "/dashboards/modern",
   },
+  {
+    title: "Compensacion y Beneficios",
+    icon: ApertureIcon,
+    to: "/dashboards/Compensacion",
+  },
   { header: 'Apps' },
   {
     title: 'Contact',
