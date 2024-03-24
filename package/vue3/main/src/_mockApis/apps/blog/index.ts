@@ -230,7 +230,7 @@ const BlogPost: blogpostType[] = [
     },
     {
         id: chance.integer({ min: 1, max: 2000 }),
-        title: 'Unete a nosotros    ',
+        title: 'Unete a nosotros a BULLS GYM',
         content: chance.paragraph({ sentences: 2 }),
         coverImg: s10,
         createdAt: sub(new Date(), { days: 0, hours: 1, minutes: 20 }),
