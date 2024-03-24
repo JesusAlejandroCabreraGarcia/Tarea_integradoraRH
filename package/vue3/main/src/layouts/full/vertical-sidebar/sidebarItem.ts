@@ -76,6 +76,7 @@ export interface menu {
 
 const sidebarItem: menu[] = [
   { header: 'Home' },
+  /*
   {
     title: "Analytical",
     icon: ChartPieIcon,
@@ -90,11 +91,21 @@ const sidebarItem: menu[] = [
     title: "Modern",
     icon: ApertureIcon,
     to: "/dashboards/modern",
+  },*/
+  {
+    title: 'Reclutamiento y Seleccion',
+    icon: CircleDotIcon,
+    to: '/dashboards/rHumanos/Reclutamiento'
   },
   {
+    title: "Gestion de Rendimiento",
+    icon: ChartPieIcon,
+    to: "/dashboards/rHumanos/Gestion",
+  }
+  ,{
     title: "Compensacion y Beneficios",
     icon: ApertureIcon,
-    to: "/dashboards/rHumanos/Compensacion",
+    to: "/dashboards/Compensacion",
   },
   { header: 'Apps' },
   {
