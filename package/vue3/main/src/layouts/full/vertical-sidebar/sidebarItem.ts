@@ -95,7 +95,12 @@ const sidebarItem: menu[] = [
     title: "Gestion de Rendimiento",
     icon: ChartPieIcon,
     to: "/dashboards/analytical",
-  },
+  }
+  ,{
+    title: "Compensacion y Beneficios",
+    icon: ApertureIcon,
+    to: "/dashboards/Compensacion",
+},
   { header: 'Apps' },
   {
     title: 'Contact',

@@ -31,6 +31,11 @@ const MainRoutes = {
             component: () => import('@/views/dashboards/modern/Modern.vue'),
         },
         {
+            name: 'Compensacion',
+            path: '/dashboards/Compensacion',
+            component: () => import('@/views/dashboards/rHumanos/Compensacion/Compensacion.vue'),
+        },
+        {
             name: 'Chats',
             path: '/apps/chats',
             component: () => import('@/views/apps/chat/Chats.vue')
