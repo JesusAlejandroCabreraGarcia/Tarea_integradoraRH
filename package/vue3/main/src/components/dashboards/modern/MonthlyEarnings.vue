@@ -61,6 +61,7 @@ const items = ref(["March", "April", "May", "June"]);
 </script>
 
 <template>
+    <!--
     <v-card elevation="10" class="mb-7 bg-secondary">
         <v-card-text class="pb-sm-7">
             <h3 class="text-h4">Monthly Earnings</h3>
@@ -73,5 +74,5 @@ const items = ref(["March", "April", "May", "June"]);
                 <span class="text-subtitle-1 ml-2 d-flex align-center font-weight-medium "><ArrowUpLeftIcon  size="18"/>+9 this week</span>
             </h2>
         </v-card-text>
-    </v-card>
+    </v-card>-->
 </template>

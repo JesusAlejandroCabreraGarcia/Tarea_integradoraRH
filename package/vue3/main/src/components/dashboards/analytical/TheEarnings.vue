@@ -1,8 +1,9 @@
-
+<!-- En este apartado es para modificar el modulo de compensacion y beneficios-->
 import { CurrencyDollarIcon } from 'vue-tabler-icons';
 
 
 <template>
+    <!--
     <v-card elevation="10" class="bg-primary">
         <v-card-text>
             <div class="d-flex align-start">
@@ -19,5 +20,5 @@ import { CurrencyDollarIcon } from 'vue-tabler-icons';
                 <span class="text-subtitle-1">Monthly revenue</span>
             </div>
         </v-card-text>
-    </v-card>
+    </v-card>-->
 </template>

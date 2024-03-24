@@ -1,5 +1,7 @@
+<!-- En este apartado es para modificar el modulo de compensacion y beneficios-->
 <script setup lang="ts"></script>
 <template>
+  <!--
   <v-card elevation="10" >
     <img
       src="@/assets/images/backgrounds/welcome-bg2-2x-svg.svg"
@@ -11,7 +13,7 @@
       </h3>
       <v-btn color="secondary" class="mt-4 mb-2"> Download </v-btn>
     </v-card-text>
-  </v-card>
+  </v-card>-->
 </template>
 
 <style scoped>

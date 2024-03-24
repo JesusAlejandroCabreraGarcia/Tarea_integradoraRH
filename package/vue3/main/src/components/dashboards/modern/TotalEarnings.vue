@@ -3,6 +3,7 @@ import type { CurrencyDollarIcon } from 'vue-tabler-icons';
 </script>
 
 <template>
+  <!--
   <v-card elevation="10">
     <v-card-text>
       <div class="d-flex align-start">
@@ -19,5 +20,5 @@ import type { CurrencyDollarIcon } from 'vue-tabler-icons';
         <span class="text-subtitle-1 text-medium-emphasis font-weight-medium">Monthly Revenue</span>
       </div>
     </v-card-text>
-  </v-card>
+  </v-card>-->
 </template>

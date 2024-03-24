@@ -12,7 +12,7 @@ import BlogCard from "@/components/dashboards/analytical/BlogCard.vue";
 import WeeklyStats from "@/components/dashboards/analytical/WeeklyStats.vue";
 import DailyActivities from "@/components/dashboards/analytical/DailyActivities.vue";
 
-const page = ref({ title: "Analytical" });
+const page = ref({ title: "Compensacion y Beneficios" });
 const breadcrumbs = ref([
   {
     text: "Dashboard",
@@ -20,7 +20,7 @@ const breadcrumbs = ref([
     href: "#",
   },
   {
-    text: "Analytical",
+    text: "Compensacion",
     disabled: true,
     href: "#",
   },

@@ -3,6 +3,7 @@ import type { ArrowUpLeftIcon } from 'vue-tabler-icons';
 
 </script>
 <template>
+  <!--
   <v-card elevation="10" class="position-relative overflow-hidden">
     <img src="@/assets/images/backgrounds/welcome-bg2-2x-svg.svg" class="bg-img-1" />
     <v-card-text>
@@ -17,7 +18,7 @@ import type { ArrowUpLeftIcon } from 'vue-tabler-icons';
       </h2>
       <v-btn color="primary" class="mt-7" flat> Download </v-btn>
     </v-card-text>
-  </v-card>
+  </v-card>-->
 </template>
 
 <style scoped>
