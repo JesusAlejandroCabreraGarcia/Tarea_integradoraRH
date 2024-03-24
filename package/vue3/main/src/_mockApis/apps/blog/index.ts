@@ -194,7 +194,7 @@ const BlogPost: blogpostType[] = [
     },
     {
         id: chance.integer({ min: 1, max: 2000 }),
-        title: 'COVID outbreak deepens as more lockdowns loom in China',
+        title: 'Si estas intersado, envia tu CV',
         content: chance.paragraph({ sentences: 2 }),
         coverImg: s8,
         createdAt: sub(new Date(), { days: 4, hours: 6, minutes: 20 }),
