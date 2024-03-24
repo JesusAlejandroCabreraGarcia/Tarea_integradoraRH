@@ -16,6 +16,11 @@ const MainRoutes = {
             component: () => import('@/views/dashboards/rHumanos/Reclutamiento/Reclutamiento.vue')
         },
         {
+            name: 'Gestion',
+            path: '/dashboards/Gestion',
+            component: () => import('@/views/dashboards/rHumanos/Gestion/Gestion.vue'),
+        },
+        {
             name: 'Analytical',
             path: '/dashboards/analytical',
             component: () => import('@/views/dashboards/analytical/Analytical.vue'),
@@ -29,6 +34,11 @@ const MainRoutes = {
             name: 'Modern',
             path: '/dashboards/modern',
             component: () => import('@/views/dashboards/modern/Modern.vue'),
+        },
+        {
+            name: 'Compensacion',
+            path: '/dashboards/Compensacion',
+            component: () => import('@/views/dashboards/rHumanos/Compensacion/Compensacion.vue'),
         },
         {
             name: 'Chats',
