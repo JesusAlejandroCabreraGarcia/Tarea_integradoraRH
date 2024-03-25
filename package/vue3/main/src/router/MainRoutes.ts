@@ -112,9 +112,14 @@ const MainRoutes = {
             component: () => import('@/views/apps/notes/Notes.vue')
         },
         {
-            name: 'Contact',
+            name: 'Empleados',
             path: '/apps/contacts',
             component: () => import('@/views/apps/contact/Contact.vue')
+        },
+        {
+            name: 'Instructores',
+            path: '/apps/Instructores',
+            component: () => import('@/views/apps/Instructores/Instructores.vue')
         },
         {
             name: 'Calendar',

@@ -75,7 +75,7 @@ export interface menu {
 }
 
 const sidebarItem: menu[] = [
-  { header: 'Home' },
+  { header: 'Modulos' },
   /*
   {
     title: "Analytical",
@@ -109,14 +109,22 @@ const sidebarItem: menu[] = [
   },
   { header: 'Apps' },
   {
-    title: 'Contact',
+    title: 'Empleados',
     icon: BoxIcon,
     to: '/apps/contacts',
-    chip: '2',
+    chip: '',
     chipColor: 'surface',
     chipBgColor: 'secondary'
   },
-
+  {
+    title: 'Instructores',
+    icon: BoxIcon,
+    to: '/apps/Instructores',
+    chip: '',
+    chipColor: 'surface',
+    chipBgColor: 'secondary'
+  },
+/*
   {
     title: 'Blog',
     icon: ChartDonut3Icon,
@@ -587,7 +595,7 @@ const sidebarItem: menu[] = [
     icon: BrandTablerIcon,
     to: "/icons/tabler",
   },
-
+*/
 ];
 
 export default sidebarItem;

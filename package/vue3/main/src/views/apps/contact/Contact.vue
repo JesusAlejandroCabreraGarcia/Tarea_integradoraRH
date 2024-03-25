@@ -4,11 +4,11 @@ import { ref } from 'vue';
 import BaseBreadcrumb from '@/components/shared/BaseBreadcrumb.vue';
 import EditableTable from '@/components/table/EditableTable.vue';
 // theme breadcrumb
-const page = ref({ title: 'Contact List' });
+const page = ref({ title: 'Lista de empleandos'});
 
 const breadcrumbs = ref([
     {
-        text: '2 New Contacts',
+        text: '2 Nuevos empleados',
         disabled: true,
         href: '#'
     }

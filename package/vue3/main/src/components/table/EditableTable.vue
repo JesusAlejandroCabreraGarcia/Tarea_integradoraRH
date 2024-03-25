@@ -87,7 +87,7 @@ const formTitle = computed(() => {
             <v-dialog v-model="dialog" max-width="500">
                 <template v-slot:activator="{ props }">
                     <v-btn color="primary" v-bind="props" flat class="ml-auto">
-                        <v-icon class="mr-2">mdi-account-multiple-plus</v-icon>Add Contact
+                        <v-icon class="mr-2">mdi-account-multiple-plus</v-icon>Agregar Empleado
                     </v-btn>
                 </template>
                 <v-card>
@@ -170,11 +170,11 @@ const formTitle = computed(() => {
         <thead>
             <tr>
                 <th class="text-subtitle-1 font-weight-semibold">Id</th>
-                <th class="text-subtitle-1 font-weight-semibold">UserInfo</th>
-                <th class="text-subtitle-1 font-weight-semibold">Phone</th>
-                <th class="text-subtitle-1 font-weight-semibold">Joining Date</th>
-                <th class="text-subtitle-1 font-weight-semibold">Role</th>
-                <th class="text-subtitle-1 font-weight-semibold">Actions</th>
+                <th class="text-subtitle-1 font-weight-semibold">Empleado</th>
+                <!--<th class="text-subtitle-1 font-weight-semibold">Phones</th>-->
+                <th class="text-subtitle-1 font-weight-semibold"> Fecha contratacion</th>
+                <th class="text-subtitle-1 font-weight-semibold">Puesto </th>
+                <th class="text-subtitle-1 font-weight-semibold">Editar</th>
             </tr>
         </thead>
         <tbody>
@@ -192,7 +192,7 @@ const formTitle = computed(() => {
                         </div>
                     </div>
                 </td>
-                <td class="text-subtitle-1">{{ item.phone }}</td>
+                <!--<td class="text-subtitle-1">{{ item.phone }}</td>-->
                 <td class="text-subtitle-1">{{ item.jdate }}</td>
                 <td>
                     <v-chip :color="item.rolestatus" size="small" label>{{ item.role }}</v-chip>
