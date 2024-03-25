@@ -1,14 +1,14 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 // common components
-import BaseBreadcrumb from '@/components/shared/BaseBreadcrumb.vue';
-import EditableTable from '@/components/table/EditableTable.vue';
+import BaseBreadcrumb from '@/components/shared2/BaseBreadcrumb.vue';
+import EditableTable from '@/components/table2/EditableTable.vue';
 // theme breadcrumb
-const page = ref({ title: 'Lista de empleandos'});
+const page = ref({ title: 'Lista de instructores' });
 
 const breadcrumbs = ref([
     {
-        text: '2 Nuevos empleados',
+        text: '2 Nuevos instructores',
         disabled: true,
         href: '#'
     }

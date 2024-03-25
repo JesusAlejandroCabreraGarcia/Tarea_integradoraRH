@@ -87,7 +87,7 @@ const formTitle = computed(() => {
             <v-dialog v-model="dialog" max-width="500">
                 <template v-slot:activator="{ props }">
                     <v-btn color="primary" v-bind="props" flat class="ml-auto">
-                        <v-icon class="mr-2">mdi-account-multiple-plus</v-icon>Agregar Empleado
+                        <v-icon class="mr-2">mdi-account-multiple-plus</v-icon>Agregar Instructor
                     </v-btn>
                 </template>
                 <v-card>
@@ -170,10 +170,10 @@ const formTitle = computed(() => {
         <thead>
             <tr>
                 <th class="text-subtitle-1 font-weight-semibold">Id</th>
-                <th class="text-subtitle-1 font-weight-semibold">Empleado</th>
+                <th class="text-subtitle-1 font-weight-semibold">Instructor</th>
                 <!--<th class="text-subtitle-1 font-weight-semibold">Phone</th>-->
-                <th class="text-subtitle-1 font-weight-semibold"> Fecha contratacion</th>
-                <th class="text-subtitle-1 font-weight-semibold">Puesto </th>
+                <th class="text-subtitle-1 font-weight-semibold">Fecha contratacion</th>
+                <th class="text-subtitle-1 font-weight-semibold">Encargado</th>
                 <th class="text-subtitle-1 font-weight-semibold">Editar</th>
             </tr>
         </thead>
