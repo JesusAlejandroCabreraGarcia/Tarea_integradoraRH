@@ -171,7 +171,7 @@ const formTitle = computed(() => {
             <tr>
                 <th class="text-subtitle-1 font-weight-semibold">Id</th>
                 <th class="text-subtitle-1 font-weight-semibold">Empleado</th>
-                <!--<th class="text-subtitle-1 font-weight-semibold">Phone</th>-->
+                <!--<th class="text-subtitle-1 font-weight-semibold">Phones</th>-->
                 <th class="text-subtitle-1 font-weight-semibold"> Fecha contratacion</th>
                 <th class="text-subtitle-1 font-weight-semibold">Puesto </th>
                 <th class="text-subtitle-1 font-weight-semibold">Editar</th>
