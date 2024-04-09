@@ -24,7 +24,7 @@ const breadcrumbs = ref([
         href: "#",
     },
     {
-        text: "Modern",
+        text: "Gestion de rendimiento",
         disabled: true,
         href: "#",
     },

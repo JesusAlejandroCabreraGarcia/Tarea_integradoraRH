@@ -79,8 +79,8 @@ const Chart = computed(() => {
     }
 });
 
-const select = ref("March");
-const items = ref(["March", "April", "May", "June"]);
+const select = ref("Marzo");
+const items = ref(["Marzo", "April", "May", "June"]);
 </script>
 
 <template>
@@ -88,7 +88,7 @@ const items = ref(["March", "April", "May", "June"]);
         <v-card-text>
             <div class="d-sm-flex align-start">
                 <div>
-                    <h2 class="text-h4">Revenue Updates</h2>
+                    <h2 class="text-h4">Rendimiento Mensual</h2>
                 </div>
                 <v-spacer></v-spacer>
                 <div class="ml-auto">
@@ -104,13 +104,13 @@ const items = ref(["March", "April", "May", "June"]);
                     <span class="text-overline">
                         <i class="mdi mdi-brightness-1 mx-1"></i>
                     </span>
-                    <span class="font-weight-regular">Earnings</span>
+                    <span class="font-weight-regular">Febrero</span>
                 </div>
                 <div class="d-flex align-center px-2 text-secondary">
                     <span class="text-overline">
                         <i class="mdi mdi-brightness-1 mx-1"></i>
                     </span>
-                    <span class="font-weight-regular">Expense</span>
+                    <span class="font-weight-regular">Marzo</span>
                 </div>
             </div>
         </v-card-text>
