@@ -23,20 +23,6 @@
 | Iram Daniel Zúñiga Agustín | DB Manager |
 | Carlos Eduardo Varela Barrios | Documentador  |
 #
-### Objetivo General
-Garantizar la confidencialidad, integridad y disponibilidad de la información almacenada en la base de datos, protegiendo los datos personales de los empleados y garantizando el cumplimiento de la normativa vigente en materia de protección de datos. 
-#
-### Objetivos Específicos 
-- Establecer roles de usuario específicos para cada tipo de usuario (administrador, desarrollador, analista, etc.) con permisos acotados según sus responsabilidades.
-- Limitar los privilegios de cada rol de usuario para minimizar el riesgo de acceso no autorizado a la base de datos.
-- Implementar mecanismos de autenticación fuertes, como contraseñas seguras, autenticación de dos factores o integración con servicios de autenticación externos.
-- Regularmente revisar y auditar los privilegios de los usuarios para asegurarse de que siguen siendo apropiados para sus funciones.
-- Establecer políticas de acceso y uso de la base de datos que sean claras y que todos los usuarios deben seguir.
-- Realizar copias de seguridad periódicas de la base de datos para prevenir la pérdida de información en caso de un incidente de seguridad.
-- Mantenerse al tanto de las actualizaciones de seguridad de MySQL y aplicar parches y correcciones de seguridad de manera oportuna.
-- Capacitar a los usuarios sobre las mejores prácticas de seguridad para proteger la información confidencial almacenada en la base de datos.
-Objetivos específicos para un plan de seguridad con roles, privilegios y usuarios en MySQL
-#
 ### Introducción
 En el siguiente documento, se redacta el proyecto integrador del octavo cuatrimestre de la carrera de Ingeniería en Desarrollo y Gestión de Software, el cual es un proyecto que conlleva la integración de cuatro materias, las cuales: Administración de Base de Datos, Desarrollo Web Profesional, Seguridad en el Desarrollo de Aplicaciones, Planeación y Organización del Trabajo.
 El objetivo principal de este proyecto es implementar un sistema integral para la gestión y control de un gimnasio, que permita a los administradores y usuarios tener acceso a información en tiempo real, de forma segura y eficiente.
