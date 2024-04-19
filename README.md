@@ -1,20 +1,28 @@
-![image](https://github.com/Carlosvarela1309/test-uno/assets/163442089/5840dc61-22a7-48f0-a9b9-6f30cffd09b8)
+![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/9a3d1dda-fb5e-484b-91cb-d58df413a22f)
 
+#
+![image](https://github.com/Carlosvarela1309/test-uno/assets/163442089/5840dc61-22a7-48f0-a9b9-6f30cffd09b8)
+#
 
 # Universidad Tecnológica de Xicotepec de Juárez
 ## Reporte Integrador 3B
 
-| Empresa  | Second Header |
+| Empresa  | CDA |
 | ------------- | ------------- |
 | Proyecto  | Sitio web GYM BULL´S  |
 | Fecha  | Enero - Abril 2024  |
-
+#
+| Logo del Sitio  | CDA |
+| ------------- | ------------- |
+| ![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/ceb72b9c-4bee-494d-b995-02fbc0c6a45e) | ![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/95e12925-17ce-4c8a-aa15-cd48d1c88598)
+#
 ## Integrantes del equipo:
 1. Jesus Alejandro Cabrera García
 2. Iram Daniel Zúñiga Agustín
 3. Carlos Eduardo Varela Barrios
 #
-![image](https://github.com/Carlosvarela1309/test-uno/assets/163442089/d8d5c149-3c68-48d1-8ef0-920205e213da)
+![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/08fe8649-db48-4b8e-a0e7-e871ac7c0663)
+
 #
 ### Responsables 
 | Nombre | Cargo  |
@@ -27,6 +35,7 @@
 En el siguiente documento, se redacta el proyecto integrador del octavo cuatrimestre de la carrera de Ingeniería en Desarrollo y Gestión de Software, el cual es un proyecto que conlleva la integración de cuatro materias, las cuales: Administración de Base de Datos, Desarrollo Web Profesional, Seguridad en el Desarrollo de Aplicaciones, Planeación y Organización del Trabajo.
 El objetivo principal de este proyecto es implementar un sistema integral para la gestión y control de un gimnasio, que permita a los administradores y usuarios tener acceso a información en tiempo real, de forma segura y eficiente.
 La integración de estas materias permitirá desarrollar un sistema completo y eficiente para la gestión de un gimnasio, que brinde a los usuarios una experiencia positiva y segura, y a los administradores las herramientas necesarias para llevar a cabo una gestión eficaz.
+Esta propuesta se centra en implementar una serie de módulos de recursos humanos innovadores que lejos de ampliar la visibilidad del gimnasio, tendrá también que crear una experiencia de una vida rica saludable y basada en los recursos necesarios.
 #
 ### Objetivo General
 Implementar un sistema de administración de base de datos, desarrollo web profesional y seguridad en el desarrollo de aplicaciones para optimizar la gestión de un gimnasio, así como mejorar la planeación y organización del trabajo en todas las áreas de la empresa.
