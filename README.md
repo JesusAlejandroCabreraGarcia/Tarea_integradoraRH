@@ -22,7 +22,8 @@
 2. Iram Daniel Zúñiga Agustín
 3. Carlos Eduardo Varela Barrios
 #
-![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/08fe8649-db48-4b8e-a0e7-e871ac7c0663)
+![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/61b6a3bd-a232-400c-9cb1-6643c3194a6f)
+
 
 #
 ### Responsables 
