@@ -20,7 +20,7 @@ const breadcrumbs = ref([
     href: "#",
   },
   {
-    text: "Compensacion",
+    text: "Compensacion y Beneficios",
     disabled: true,
     href: "#",
   },
