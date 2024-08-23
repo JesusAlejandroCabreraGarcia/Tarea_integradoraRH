@@ -1,7 +1,9 @@
-![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/9a3d1dda-fb5e-484b-91cb-d58df413a22f)
-
-
 <div align="center">
+  
+![WhatsApp Image 2024-08-22 at 11 29 16 PM](https://github.com/user-attachments/assets/6529eaca-aa32-4da0-9286-8e356dc99182)
+
+
+
   <h1>UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUÁREZ</h1>
 </div>
 <div align="center">
@@ -30,7 +32,8 @@
   <h2>Integrantes del equipo:</h2>
 </div>
 
-![Documento](https://github.com/user-attachments/assets/813009e5-a026-4692-8024-ab241a8ff976)
+![negro](https://github.com/user-attachments/assets/8aa2a511-f0d8-44b4-a783-a686a6162286)
+
 
 
 #
