@@ -1,65 +1,84 @@
 ![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/9a3d1dda-fb5e-484b-91cb-d58df413a22f)
 
-#
-![image](https://github.com/Carlosvarela1309/test-uno/assets/163442089/5840dc61-22a7-48f0-a9b9-6f30cffd09b8)
-#
 
-# Universidad Tecnológica de Xicotepec de Juárez
-## Ingeniería en Desarrollo y Gestión de Software
-## Reporte Integrador 3B
+<div align="center">
+  <h1>UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUÁREZ</h1>
+</div>
+<div align="center">
+  <h1>Reporte Integrador - 
+  Recursos Humanos</h1>
+</div>
+<div align="center">
+  
+
+
 
 | Empresa  | CDA |
 | ------------- | ------------- |
 | Proyecto  | Sitio web GYM BULL´S  |
-| Fecha  | Enero - Abril 2024  |
+| Fecha  | Mayo - Agosto 2024  |
+
+
+
+
 #
-| Logo del Sitio  | CDA |
-| ------------- | ------------- |
-| ![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/ceb72b9c-4bee-494d-b995-02fbc0c6a45e) | ![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/95e12925-17ce-4c8a-aa15-cd48d1c88598)
+| Logo del Sitio  
+| ------------- 
+| ![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/ceb72b9c-4bee-494d-b995-02fbc0c6a45e)
 #
-## Integrantes del equipo:
-1. Jesus Alejandro Cabrera García
-2. Iram Daniel Zúñiga Agustín
-3. Carlos Eduardo Varela Barrios
-#
-![image](https://github.com/JesusAlejandroCabreraGarcia/Tarea_integradoraRH/assets/163442089/61b6a3bd-a232-400c-9cb1-6643c3194a6f)
+<div align="center">
+  <h2>Integrantes del equipo:</h2>
+</div>
+
+![Documento](https://github.com/user-attachments/assets/813009e5-a026-4692-8024-ab241a8ff976)
 
 
 #
 ### Responsables 
 | Nombre | Cargo  |
 | --- | --- |
-| Jesus Alejandro Cabrera García | Líder/Desarrollador  |
-| Iram Daniel Zúñiga Agustín | DB Manager |
+| Jesus Alejandro Cabrera García | Líder/Desarrollador Backend  |
+| Iram Daniel Zúñiga Agustín | Desarrollador Frontend |
+| Amisadai Fernandez Reyes | DB Manager |
 | Carlos Eduardo Varela Barrios | Documentador  |
+| Adan Salas Galvan | Documentador  |
 #
+</div>
+
+
 ### Introducción
-En el siguiente documento, se redacta el proyecto integrador del octavo cuatrimestre de la carrera de Ingeniería en Desarrollo y Gestión de Software, el cual es un proyecto que conlleva la integración de cuatro materias, las cuales: Administración de Base de Datos, Desarrollo Web Profesional, Seguridad en el Desarrollo de Aplicaciones, Planeación y Organización del Trabajo.
-El objetivo principal de este proyecto es implementar un sistema integral para la gestión y control de un gimnasio, que permita a los administradores y usuarios tener acceso a información en tiempo real, de forma segura y eficiente.
-La integración de estas materias permitirá desarrollar un sistema completo y eficiente para la gestión de un gimnasio, que brinde a los usuarios una experiencia positiva y segura, y a los administradores las herramientas necesarias para llevar a cabo una gestión eficaz.
-Esta propuesta se centra en implementar una serie de módulos de recursos humanos innovadores que lejos de ampliar la visibilidad del gimnasio, tendrá también que crear una experiencia de una vida rica saludable y basada en los recursos necesarios.
+En el siguiente documento, se redacta el proyecto integrador del noveno cuatrimestre de la carrera de Ingeniería en Desarrollo y Gestión de Software, el cual es un proyecto que conlleva la integración de 2 materias, las cuales son: Extraccion de Base de Datos y Desarrollo Web Integral.
+La gestión eficiente de los recursos humanos en las empresas de servicios, como los gimnasios, es crucial para garantizar un funcionamiento fluido y un excelente servicio al cliente. Con el objetivo de mejorar la administración y operatividad de un gimnasio, hemos desarrollado una API de frontend específica para la gestión de recursos humanos. Esta API se centra en cinco áreas clave: Puestos, Empleados, Personas, Servicio al Cliente, y Horarios.
 #
 ### Objetivo General
-Implementar un sistema de administración de base de datos, desarrollo web profesional y seguridad en el desarrollo de aplicaciones para optimizar la gestión de un gimnasio, así como mejorar la planeación y organización del trabajo en todas las áreas de la empresa.
+Desarrollar una aplicación frontend intuitiva y eficiente que permita la gestión integral de los recursos humanos en un gimnasio, facilitando la administración de puestos, empleados, horarios y la atención al cliente, con el fin de optimizar las operaciones diarias y mejorar la experiencia tanto de los empleados como de los clientes.
 #
 ### Objetivos Específicos
-1. Registrar la información personal de cada empleado, como nombre, dirección, teléfono y correo electrónico.
-2. Llevar un registro de la información laboral de cada empleado, como cargo, salario, horario de trabajo y días laborales.
-3. Controlar la asistencia y puntualidad de los empleados, así como las horas trabajadas.
-4. Administrar las vacaciones, permisos y licencias de los empleados.
+1.	Implementar un módulo de gestión de puestos.
+2.  Desarrollar un sistema para la administración de empleados.
+3.  Crear una base de datos centralizada de personas.
+4.  Incorporar un módulo de atención al cliente
+5.  Desarrollar un sistema de planificación y gestión de horarios.
+   
 #
 ### Justificación
-Una base de datos en un gimnasio es fundamental para organizar y gestionar de manera eficiente la información de los clientes, sus planes de entrenamiento, horarios, pagos, registro de asistencia, entre otros aspectos. Esto permite al personal del gimnasio tener un control o un seguimiento detallado de cada cliente, proporcionándoles un servicio personalizado y adaptado a sus necesidades y objetivos. Además, una base de datos en un gimnasio facilita la comunicación con los clientes, el seguimiento de su progreso y la evaluación del funcionamiento del negocio, lo cual contribuye a mejorar la satisfacción de los usuarios y la eficiencia de la operación. 
+La implementación de esta API de frontend responde a la necesidad de modernizar y simplificar la gestión de recursos humanos en gimnasios. Al integrar funciones clave en un solo sistema, se facilita la administración de la información, se reducen los errores manuales y se mejora la eficiencia en la gestión diaria. Además, la API está diseñada para ser flexible y escalable, permitiendo adaptaciones futuras conforme el gimnasio crezca o cambien sus necesidades operativas.
+
+Este proyecto no solo proporciona una solución técnica efectiva, sino que también contribuye a una mejor experiencia para los empleados y clientes del gimnasio, al asegurar que todos los aspectos relacionados con la gestión de recursos humanos sean manejados de manera profesional y eficiente.
+
+ 
 #
 ### Contexto del proyecto
-Un gimnasio con una base de datos puede incluir información como los miembros inscritos, sus datos de contacto, fechas de inicio y vencimiento de membresía, historial de pagos, preferencias de clases y entrenadores personales, datos de evaluaciones físicas y progreso, reservas de clases y horarios de entrenamiento, entre otros. 
+En el ámbito de la gestión de gimnasios, la administración eficiente de recursos humanos es fundamental para garantizar un funcionamiento óptimo. Los gimnasios, como centros de bienestar y actividad física, requieren una coordinación precisa entre diversas funciones operativas y administrativas. La correcta gestión de puestos, empleados, horarios y servicios al cliente es esencial para ofrecer una experiencia de usuario de alta calidad y mantener un entorno laboral organizado y productivo. 
 #
 ### Propósito 
-La gestión de la base de datos tiene como propósito ofrecer a los usuarios confianza y seguridad al momento de tener su información a la base de datos, de este modo brinda y mejora la experiencia del cliente al proporcionar información personal.  
-#
-### Área
-Una base de datos en el área de recursos humanos es un sistema de almacenamiento de información que recopila y organiza datos relacionados con los empleados de una organización, como sus datos personales, antecedentes laborales, información de contacto, historial de empleo, beneficios, evaluaciones de desempeño, formación y desarrollo, entre otros.
-#
+ A través de esta solución, buscamos alcanzar los siguientes propósitos:
+ 1. Centralización de la Información
+ 2. Mejora en la Gestión del Personal
+ 3. Optimización del Servicio al Cliente
+ 4. Seguridad y Privacidad
+ 5. Flexibilidad y Escalabilidad
+
 ### Requerimientos Funcionales 
 1. Capacidad de almacenar y gestionar la información personal de los empleados del gimnasio, como nombres, direcciones, números de contacto, fecha de contratación, salario, etc.
 2. Funcionalidad para registrar y dar seguimiento a los horarios de trabajo de los empleados, incluyendo turnos, días libres, vacaciones, etc.
